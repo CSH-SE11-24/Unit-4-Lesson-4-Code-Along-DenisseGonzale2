@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+	background-color: #ffb6c1;
+}
+
+#red {
+	color: #a83b46;
+}
+#orange{
+	color:#a66042;
+}
+.color{
+	color:#a83b46;
+}
+#gru{
+	width: 80ww;
+}
+.minion{
+	width: 30ww;
+}
+#kingbob{
+	margin- left: 5ww;
+}
